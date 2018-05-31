@@ -1,0 +1,10 @@
+Nkomo Smith
+
+One advantage of using arrays is to create more bubbles more efficiently. Instead of creating
+one buuble at a time like in bubbles, using an array allows me to create millions of bubbles using
+one for loop. To create arrays of bubbles I used a very similar method to what I did in bubbles for
+the setup function however instead of bubble1, bubble2, and bubble, I used bubble[i] to be more
+efficent. Then in my darw function I used a for loop to draw many bubbles rather than individually
+doing them. One struggle I had was creating the for loop because I didn't know what I was doing
+because I didn't do a walkthrough. However I was able to fix my mistakes by going through the walkthrough
+and getting help from my classmates.

@@ -1,0 +1,8 @@
+Nkomo Smith
+
+In bubbles mini challenge I created 6 bubbles that are set at a random position. To do this I used
+a draw function and used the object ellipse to create the circles. An object is pretty much everything
+in javascript. An object contains data values in your code. Objects are very benificial when working
+in java script because objects can contain many values. One struggle I had doing this project was geting
+aclimated with p5 because it was the first project we have done in p5 and might take some time to get
+use to.
