@@ -15,8 +15,8 @@ function setup() {
 }
 
 function draw() {
-  colorMode(HSB)
-  background(250, 210, 190);
+  //colorMode(HSB)
+  background(255);
 
   translate(width/2, height/2);
   var newzoom = 64 / blob.r;
